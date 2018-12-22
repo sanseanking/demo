@@ -1,0 +1,16 @@
+{
+    "name": "sanseanking/demo",
+    "description": "a test",
+    "type": "project",
+    "require": {
+        "topthink/think": "v5.0.22"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "sansean",
+            "email": "sanean@live.cn"
+        }
+    ],
+    "minimum-stability": "dev"
+}
